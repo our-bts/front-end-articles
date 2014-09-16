@@ -17,6 +17,7 @@ front-end-articles
 * [色轮](https://kuler.adobe.com/zh/create/color-wheel/)
 * [Bootstrap](http://getbootstrap.com/css/)
 * [This is responsive](http://bradfrost.github.io/this-is-responsive/)
+* [Design Patterns -- CodePen 素材集合](http://codepen.io/patterns/)
 
 ## JS
 
