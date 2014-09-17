@@ -24,3 +24,8 @@ front-end-articles
 * [Coffee袖珍手册](http://zhang.zipeng.info/library/coffeescript/index.html)
 * [Javascript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [JS the right way](http://jstherightway.org/)
+
+## Node.js
+
+* [7天学会Node.js](http://nqdeng.github.io/7-days-nodejs/#1)
+* [Joyent Design Node.js](http://www.joyent.com/developers/node/design)
