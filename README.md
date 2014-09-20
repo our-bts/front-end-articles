@@ -9,7 +9,7 @@ front-end-articles
 * [Angular官方的示例程序](https://builtwith.angularjs.org/)
 * [Angular-UI](http://angular-ui.github.io/)
 * [AngularJS Guide的中文分支版本](https://github.com/jmcunningham/AngularJS-Learning/blob/master/ZH-CN.md)
- 
+* [Google AngularJs style guide](https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html)
 
 ## CSS
 
@@ -18,12 +18,15 @@ front-end-articles
 * [Bootstrap](http://getbootstrap.com/css/)
 * [This is responsive](http://bradfrost.github.io/this-is-responsive/)
 * [Design Patterns -- CodePen 素材集合](http://codepen.io/patterns/)
+* [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 
 ## JS
 
 * [Coffee袖珍手册](http://zhang.zipeng.info/library/coffeescript/index.html)
 * [Javascript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [JS the right way](http://jstherightway.org/)
+* [Google javascript style guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+
 
 ## Node.js
 
