@@ -10,6 +10,7 @@ front-end-articles
 * [Angular-UI](http://angular-ui.github.io/)
 * [AngularJS Guide的中文分支版本](https://github.com/jmcunningham/AngularJS-Learning/blob/master/ZH-CN.md)
 * [Google AngularJs style guide](https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html)
+* [A collection of useful resources to learn and improve your AngularJS skills.](https://github.com/timjacobi/angular-education)
 
 ## CSS
 
