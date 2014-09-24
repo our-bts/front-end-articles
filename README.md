@@ -7,6 +7,7 @@ front-end-articles
 
 * [前端乱炖Angular专栏](http://www.html-js.com/article/column/50)
 * [Angular官方的示例程序](https://builtwith.angularjs.org/)
+* [Angular官方FAQ，看了后很有收获](https://github.com/angular/angular.js/wiki)
 * [Angular-UI](http://angular-ui.github.io/)
 * [AngularJS Guide的中文分支版本](https://github.com/jmcunningham/AngularJS-Learning/blob/master/ZH-CN.md)
 * [Google AngularJs style guide](https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html)
