@@ -3,6 +3,8 @@ front-end-articles
 
 我们自己整理的前端文章，包括angular，css，js等。
 
+* [前端技能汇总](https://github.com/JacksonTian/fks)
+
 ## Angular
 
 * [前端乱炖Angular专栏](http://www.html-js.com/article/column/50)
@@ -16,7 +18,8 @@ front-end-articles
 * [BLOG - angular-tips](http://angular-tips.com/)
 * [BLOG - lostechies](http://lostechies.com/gabrielschenker/category/angularjs/)
 * [BLOG - yearofmoo](http://www.yearofmoo.com/)
-* 
+* [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
+
 ## CSS
 
 * [Learn to Code HTML & CSS，非常好的HTML & CSS 入门教程](http://learn.shayhowe.com/html-css/)
@@ -29,12 +32,15 @@ front-end-articles
 ## JS
 
 * [Coffee袖珍手册](http://zhang.zipeng.info/library/coffeescript/index.html)
+* [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
 * [Javascript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [JS the right way](http://jstherightway.org/)
 * [Google javascript style guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+* [Must-watch videos about JavaScript](https://github.com/bolshchikov/js-must-watch)
 
 
 ## Node.js
 
 * [7天学会Node.js](http://nqdeng.github.io/7-days-nodejs/#1)
 * [Joyent Design Node.js](http://www.joyent.com/developers/node/design)
+* [Node方面的可读性文章](https://github.com/dailyNode/node-daily)
