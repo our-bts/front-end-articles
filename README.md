@@ -19,6 +19,7 @@ front-end-articles
 * [BLOG - lostechies](http://lostechies.com/gabrielschenker/category/angularjs/)
 * [BLOG - yearofmoo](http://www.yearofmoo.com/)
 * [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
+* [A Comprehensive 10,000 Word Guide](http://www.airpair.com/angularjs)
 
 ## CSS
 
