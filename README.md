@@ -20,6 +20,7 @@ front-end-articles
 * [BLOG - yearofmoo](http://www.yearofmoo.com/)
 * [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
 * [A Comprehensive 10,000 Word Guide](http://www.airpair.com/angularjs)
+* [Here you can meet senior Angular developers and learn from them](http://www.airpair.com/angularjs)
 
 ## CSS
 
